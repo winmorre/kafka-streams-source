@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	apiKey    string = "ci6l4r9r01qhmud1lfj0ci6l4r9r01qhmud1lfjg"
+	apiKey    string = "Get it from finnhub.io"
 	tradesUrl string = "wss://ws.finnhub.io?token=%v"
 )
 
